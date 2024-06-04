@@ -2,9 +2,9 @@
 # What is custom object detection?
 Object detection is the task of detecting where in an image an object is located and classifying every object of interest in a given image.
 To solve this problem Iam using YOLOv8 Model.
-# This is a initial version of custom trianing with YOLOv8. Currently YOLOv8 is the newest state-of-the-art YOLO model that can be used for object detection, image classification, and instance segmentation tasks.
+# This is a initial version of custom trianing with YOLOv8. Currently YOLOv8 is the newest state-of-the-art YOLO model that can be used for object detection and instance segmentation tasks.
 
-# Training Custom Face Mask Detection Model:
+# Training Custom Bikes Detection Model:
 I have used Yolov8m for custom training with Bikes data. I did training in Google colab by reading data from Google drive. The notebook explains the below steps:
 
 1.Setting Up Google Colab
