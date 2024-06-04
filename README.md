@@ -10,8 +10,8 @@ I have used Yolov8m for custom training with Bikes data. I did training in Googl
 1.Setting Up Google Colab
 2.YOLOV8 Installation
 3.Mounting Google Drive
-4.Create face_mask_detetcion.yaml (dataset config file) (YOLOV8 format)
-5.Training Our Custom Face Mask Detetcion Model
+4.Create bike_detetcion.yaml (dataset config file) (YOLOV8 format)
+5.Training Our Custom bike Detetcion Model
 6.Metrics
 7.Run Inference With Custom YOLOv8 Object Detector Trained Weights.
 
